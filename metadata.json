@@ -1,0 +1,5 @@
+{
+  "name": "AssetVisio - IT Floor Plan Manager",
+  "description": "A visual asset management tool allowing IT Admins to manage devices on a floor plan using Leaflet with CRS.Simple coordinates. Includes Gemini-powered asset analysis.",
+  "requestFramePermissions": []
+}
